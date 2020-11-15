@@ -1,4 +1,4 @@
-print("Hello world")
-#this is a sample code to print a statement.
-
-
+     UID     PID    PPID  TTY        STIME COMMAND
+ Hussain    1034       1 ?        17:25:49 /usr/bin/mintty
+ Hussain    1035    1034 pty0     17:25:49 /usr/bin/bash
+ Hussain    1457    1035 pty0     18:09:35 /usr/bin/ps
