@@ -1,0 +1,4 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+ Hussain    1792    1791 pty1     19:56:04 /usr/bin/bash
+ Hussain    1866    1792 pty1     20:09:53 /usr/bin/ps
+ Hussain    1791       1 ?        19:56:04 /usr/bin/mintty
